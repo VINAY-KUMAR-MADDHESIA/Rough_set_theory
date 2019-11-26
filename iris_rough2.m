@@ -1,7 +1,7 @@
 % Illustration of a rough-set problem.
 
 % The individual observations are provided below
-trans_t = t'
+trans_t = t';
 dec_table = cat(2,X,trans_t);
 %disp ('The decision table is:');
 %disp (dec_table);
